@@ -1,0 +1,7 @@
+A equação horária do carro é S(t) = 18,34 + 110t pois fixei Ribeirão preto como ponto inicial = 0 porém o caminhão ficou parado por 10 minutos, então o novo ponto inicial do carro é 110km/h x 1/6h que seriam 10 minutos, isto é 18,34km para o novo ponto inicial e Franca como ponto final = 100
+Enquanto a equação do caminhão é S(t) = 100 + (-80)(t), -80 porque ele está em sentido oposto na via.
+1/6 seriam 10 mnutos já que 10/60 = 1/6.
+Para eles se encotrarem é só igualar os lados.
+18,34 + 110t = 100 - 80(t), obtendo assim t = 0,42892456 horas a partir do ponto 18,34km. Logo o tempo real para se encontrarem é só somar 10 minutos ou 0,1666666667 horas.
+O tempo para encontro é de 0,59649123 horas ou 35,7894737 minutos.
+Eles se encontram no ponto 65,614 km, considerando 0km em Ribeirão Preto e 100km em Franca.
